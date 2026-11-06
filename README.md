@@ -13,6 +13,7 @@
 
 個人の記録用のページです。
 
-## Pages
+## リンク
 
-[koichiro-nishioka.github.io](https://koichiro-nishioka.github.io/)
+- Web: [koichiro-nishioka.github.io](https://koichiro-nishioka.github.io/)
+- note: [note.com/koichiro_nishi](https://note.com/koichiro_nishi)
