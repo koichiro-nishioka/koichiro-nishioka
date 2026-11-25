@@ -19,3 +19,4 @@
 - note: [note.com/koichiro_nishi](https://note.com/koichiro_nishi)
 - Qiita: [qiita.com/koichiro-nishioka](https://qiita.com/koichiro-nishioka)
 - Zenn: [zenn.dev/ko_nishioka](https://zenn.dev/ko_nishioka)
+- はてなブログ: [koichiro-nishioka.hatenablog.com](https://koichiro-nishioka.hatenablog.com/)
