@@ -18,3 +18,4 @@
 - Web: [koichiro-nishioka.github.io](https://koichiro-nishioka.github.io/)
 - note: [note.com/koichiro_nishi](https://note.com/koichiro_nishi)
 - Qiita: [qiita.com/koichiro-nishioka](https://qiita.com/koichiro-nishioka)
+- Zenn: [zenn.dev/ko_nishioka](https://zenn.dev/ko_nishioka)
